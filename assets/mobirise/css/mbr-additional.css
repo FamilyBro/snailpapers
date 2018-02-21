@@ -947,7 +947,7 @@ body {
   display: none;
 }
 .cid-qKhfMhxTVG {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 30px;
   background: #efefef;
 }
@@ -968,6 +968,8 @@ body {
   }
 }
 .cid-qKd5gBUcWJ {
+  padding-top: 60px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/fgdf-2000x1835.png");
 }
 .cid-qKd5gBUcWJ .media-container-column .btn-bgr {
