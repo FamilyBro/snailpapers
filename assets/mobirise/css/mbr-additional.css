@@ -947,7 +947,7 @@ body {
   display: none;
 }
 .cid-qKhfMhxTVG {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 30px;
   background: #efefef;
 }
@@ -964,12 +964,10 @@ body {
 }
 @media (max-width: 768px) {
   .cid-qKhfMhxTVG .image-block {
-    width: 50% !important;
+    width: 35% !important;
   }
 }
 .cid-qKd5gBUcWJ {
-  padding-top: 60px;
-  padding-bottom: 15px;
   background-image: url("../../../assets/images/fgdf-2000x1835.png");
 }
 .cid-qKd5gBUcWJ .media-container-column .btn-bgr {
