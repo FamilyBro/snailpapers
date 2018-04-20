@@ -967,28 +967,6 @@ body {
     width: 35% !important;
   }
 }
-.cid-qMac1NlAFN {
-  background: #ffffff;
-}
-.cid-qMac1NlAFN .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-qMac1NlAFN figcaption {
-  position: relative;
-}
-.cid-qMac1NlAFN figcaption div {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qMac1NlAFN .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qKhlTh90AR {
   padding-top: 40px;
   padding-bottom: 90px;
